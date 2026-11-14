@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Gaizka%20Garrastatxu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20de%20software%20en%20formaci%C3%B3n&descAlignY=58&descSize=18" width="100%" alt="Gaizka Garrastatxu"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Gaizka%20Garrastatxu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Estudiante%20de%20Desarrollo%20de%20Aplicaciones%20Web&descAlignY=58&descSize=18" width="100%" alt="Gaizka Garrastatxu"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2C9AB7&center=true&vCenter=true&width=520&lines=Java+%2B+Hibernate+%2B+MySQL;JavaScript+sin+frameworks;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2C9AB7&center=true&vCenter=true&width=520&lines=Java+%2B+Spring+Boot+%2B+MySQL;API+REST+con+Spring+Data+JPA;Angular+%2B+TypeScript" alt="Typing SVG" /></a>
 
 </div>
 
@@ -10,14 +10,16 @@
 
 ### Sobre mí
 
-Estudio desarrollo de software. En el backend trabajo con **Java**, **JPA/Hibernate** y bases de datos **MySQL**; en el frontend, con **HTML, CSS y JavaScript** sin frameworks. Me gusta entender cómo funcionan las cosas por dentro antes de añadir capas encima.
+Estudio **Desarrollo de Aplicaciones Web**. Mi terreno es el backend con **Java**: APIs REST con **Spring Boot** y **Spring Data JPA** sobre **MySQL**, y también JPA/Hibernate sin framework. En el frontend trabajo con **Angular** y **TypeScript**, y con **HTML, CSS y JavaScript** sin frameworks.
+
+Mi TFG es **Compify**, una aplicación web para organizar la convivencia en pisos compartidos, desarrollada en equipo de tres.
 
 <br/>
 
 ### Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,maven,hibernate,mysql,js,html,css,php,git,github&theme=dark" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,angular,ts,js,html,css,php,git,github,idea&theme=dark" alt="Tecnologías" />
 </p>
 
 <br/>
@@ -25,6 +27,19 @@ Estudio desarrollo de software. En el backend trabajo con **Java**, **JPA/Hibern
 ### Proyectos destacados
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>Compify · TFG</h4>
+      <p>Aplicación web para gestionar la convivencia en pisos compartidos: hogares con invitaciones a sus miembros, gastos con reparto entre convivientes y confirmación de pagos, e historial de acciones. API REST en Spring Boot con entidades JPA, DTOs, validación y gestión centralizada de errores; documentación de la API con OpenAPI/Swagger. Proyecto en equipo de tres personas.</p>
+      <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/gaizkagarrastatxu/OnePieceCRUD">OnePieceCRUD</a></h4>
